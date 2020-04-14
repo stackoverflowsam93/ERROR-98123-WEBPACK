@@ -1,3 +1,7 @@
+This is a repository for the StackOverflow question https://stackoverflow.com/questions/61216026/gatsby-develop-producing-error-98123-webpack-generating-ssr-bundle-failed-cann
+
+Below is the original read-me provided by Gatsby for the tutorial that raised this issue
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
